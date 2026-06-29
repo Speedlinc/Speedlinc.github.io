@@ -14,6 +14,7 @@
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
   <link rel="apple-touch-icon" href="{{ '/assets/images/tonbovpn-logo.png' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% if page.layout == 'home' %}<link rel="preload" as="image" href="{{ '/assets/images/site-header.svg' | relative_url }}">{% endif %}
   {% feed_meta %}
   {% seo %}
   {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}

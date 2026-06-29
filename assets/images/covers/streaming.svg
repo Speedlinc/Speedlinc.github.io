@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,'PingFang SC','Microsoft YaHei',sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1520"/><stop offset="1" stop-color="#101e38"/></linearGradient>
+    <radialGradient id="glow" cx="0.8" cy="0.2" r="0.85"><stop offset="0" stop-color="#e84c4c" stop-opacity="0.38"/><stop offset="1" stop-color="#e84c4c" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx="0.2" cy="0.8" r="0.6"><stop offset="0" stop-color="#4f8cff" stop-opacity="0.22"/><stop offset="1" stop-color="#4f8cff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <rect width="1200" height="630" fill="url(#glow2)"/>
+  <g stroke="#ffffff" stroke-opacity="0.04"><path d="M0 158 H1200 M0 316 H1200 M0 474 H1200 M300 0 V630 M600 0 V630 M900 0 V630"/></g>
+  <!-- Category badge -->
+  <g transform="translate(80,84)">
+    <rect rx="21" width="262" height="42" fill="#e84c4c" fill-opacity="0.16" stroke="#e84c4c" stroke-opacity="0.5"/>
+    <circle cx="28" cy="21" r="8" fill="#e84c4c"/>
+    <text x="48" y="28" fill="#ffd6d6" font-size="19" font-weight="700">Netflix · Disney+ · Streaming</text>
+  </g>
+  <!-- Title -->
+  <text x="80" y="274" fill="#ffffff" font-size="66" font-weight="800">4K Streaming</text>
+  <text x="80" y="354" fill="#cdd9f2" font-size="44" font-weight="700">Netflix · Disney+ · HBO Max</text>
+  <text x="80" y="428" fill="#8ea4ca" font-size="24">Stable VPN · Streaming-grade IP · No geo-restriction</text>
+  <!-- Free badge -->
+  <g transform="translate(80,476)">
+    <rect rx="22" width="298" height="44" fill="#4f8cff" fill-opacity="0.16" stroke="#4f8cff" stroke-opacity="0.55"/>
+    <text x="24" y="29" fill="#c8dbff" font-size="20" font-weight="700">🎁 200MB Free Daily · No card</text>
+  </g>
+  <!-- TV screen icon -->
+  <g transform="translate(920,290)">
+    <!-- TV body -->
+    <rect x="-110" y="-75" width="220" height="140" rx="12" fill="none" stroke="#e84c4c" stroke-width="2.5" stroke-opacity="0.7"/>
+    <!-- Screen inner -->
+    <rect x="-92" y="-58" width="184" height="106" rx="6" fill="#e84c4c" fill-opacity="0.08" stroke="#e84c4c" stroke-width="1" stroke-opacity="0.3"/>
+    <!-- Play button -->
+    <circle cx="0" cy="0" r="28" fill="#e84c4c" fill-opacity="0.18" stroke="#e84c4c" stroke-width="2" stroke-opacity="0.7"/>
+    <polygon points="11,-14 11,14 -14,0" fill="#e84c4c" fill-opacity="0.9"/>
+    <!-- TV stand -->
+    <rect x="-6" y="65" width="12" height="22" fill="none" stroke="#e84c4c" stroke-width="2" stroke-opacity="0.5"/>
+    <rect x="-28" y="87" width="56" height="6" rx="3" fill="none" stroke="#e84c4c" stroke-width="2" stroke-opacity="0.5"/>
+    <!-- Signal bars -->
+    <g fill="#4f8cff" fill-opacity="0.8">
+      <rect x="-106" y="-30" width="8" height="16" rx="2" opacity="0.5"/>
+      <rect x="-94" y="-42" width="8" height="28" rx="2" opacity="0.7"/>
+      <rect x="-82" y="-54" width="8" height="40" rx="2"/>
+    </g>
+    <!-- Glow rings -->
+    <circle r="130" fill="none" stroke="#e84c4c" stroke-opacity="0.1" stroke-width="1"/>
+    <circle r="165" fill="none" stroke="#e84c4c" stroke-opacity="0.06" stroke-width="1"/>
+  </g>
+</svg>
