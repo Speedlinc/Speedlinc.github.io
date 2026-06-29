@@ -131,6 +131,73 @@ layout: default
   </article>
 
   <aside class="sidebar">
+    <!-- CTA card: product intro first -->
+    <div class="sidebar__section sidebar__cta">
+      <div class="cta-brand">
+        <img class="cta-brand__logo" src="{{ '/assets/images/tonbovpn-logo.png' | relative_url }}" alt="TonBo VPN" width="38" height="38">
+        <span class="cta-brand__name">TonBo VPN</span>
+      </div>
+      <p class="cta-tagline">
+        {% case lang %}
+          {% when 'en' %}AI Smart Routing · Native Clean IP · IEPL Private Line
+          {% when 'vi' %}AI Smart Routing · IP Sạch · Đường Truyền IEPL Riêng
+          {% when 'ja' %}AIスマートルーティング · クリーンIP · IEPL専用回線
+          {% when 'ko' %}AI 스마트 라우팅 · 클린 IP · IEPL 전용 회선
+          {% when 'tr' %}AI Akıllı Yönlendirme · Temiz IP · IEPL Özel Hat
+          {% else %}AI 智能路由 · 原生纯净 IP · IEPL 专线
+        {% endcase %}
+      </p>
+      <ul class="cta-features">
+        {% case lang %}
+          {% when 'en' %}
+            <li>200MB free daily, auto-reset at midnight</li>
+            <li>No credit card required</li>
+            <li>Optimized for ChatGPT &amp; Claude</li>
+          {% when 'vi' %}
+            <li>200MB miễn phí mỗi ngày, tự đặt lại 0h</li>
+            <li>Không cần thẻ tín dụng</li>
+            <li>Tối ưu cho ChatGPT &amp; Claude</li>
+          {% when 'ja' %}
+            <li>毎日200MB無料・0時自動リセット</li>
+            <li>クレジットカード不要</li>
+            <li>ChatGPT・Claude向けに最適化</li>
+          {% when 'ko' %}
+            <li>매일 200MB 무료, 자정 자동 초기화</li>
+            <li>신용카드 불필요</li>
+            <li>ChatGPT &amp; Claude 최적화</li>
+          {% when 'tr' %}
+            <li>Günlük 200MB ücretsiz, gece yarısı yenilenir</li>
+            <li>Kredi kartı gerekmez</li>
+            <li>ChatGPT &amp; Claude için optimize</li>
+          {% else %}
+            <li>每日 200MB 免费，0 点自动重置</li>
+            <li>无需绑定信用卡</li>
+            <li>ChatGPT / Claude 专线加速</li>
+        {% endcase %}
+      </ul>
+      <a class="btn btn--primary sidebar__cta-btn" href="https://www.tonbovpn.com/{% if lang != 'zh' %}{{ lang }}/{% else %}zh/{% endif %}">
+        {% case lang %}
+          {% when 'en' %}Free Download →
+          {% when 'vi' %}Tải Miễn Phí →
+          {% when 'ja' %}無料ダウンロード →
+          {% when 'ko' %}무료 다운로드 →
+          {% when 'tr' %}Ücretsiz İndir →
+          {% else %}免费下载 →
+        {% endcase %}
+      </a>
+      <p class="cta-note">
+        {% case lang %}
+          {% when 'en' %}Invite a friend — both get $1
+          {% when 'vi' %}Mời bạn bè — cả hai nhận $1
+          {% when 'ja' %}友達招待で双方 $1 ゲット
+          {% when 'ko' %}친구 초대 시 양쪽 $1 지급
+          {% when 'tr' %}Arkadaşını davet et — ikiniz $1 kazan
+          {% else %}邀请好友，双方各得 $1
+        {% endcase %}
+      </p>
+    </div>
+
+    <!-- Recommended articles below -->
     <div class="sidebar__section">
       <h3 class="sidebar__title">
         {% case lang %}
@@ -161,39 +228,6 @@ layout: default
           {% endif %}
         {% endfor %}
       </ul>
-    </div>
-
-    <div class="sidebar__section sidebar__cta">
-      <h3 class="sidebar__title">
-        {% case lang %}
-          {% when 'en' %}Try TonBo VPN Free
-          {% when 'vi' %}Dùng thử miễn phí
-          {% when 'ja' %}無料で試す
-          {% when 'ko' %}무료 체험
-          {% when 'tr' %}Ücretsiz Deneyin
-          {% else %}免费试用
-        {% endcase %}
-      </h3>
-      <p class="sidebar__cta-text">
-        {% case lang %}
-          {% when 'en' %}200MB free daily, no credit card needed.
-          {% when 'vi' %}200MB miễn phí mỗi ngày, không cần thẻ.
-          {% when 'ja' %}毎日200MB無料、カード不要。
-          {% when 'ko' %}매일 200MB 무료, 카드 불필요.
-          {% when 'tr' %}Günlük 200MB ücretsiz, kart gerekmez.
-          {% else %}每日 200M 免费流量，无需信用卡。
-        {% endcase %}
-      </p>
-      <a class="btn btn--primary sidebar__cta-btn" href="https://www.tonbovpn.com/{% if lang != 'zh' %}{{ lang }}/{% else %}zh/{% endif %}">
-        {% case lang %}
-          {% when 'en' %}Download Free →
-          {% when 'vi' %}Tải miễn phí →
-          {% when 'ja' %}無料ダウンロード →
-          {% when 'ko' %}무료 다운로드 →
-          {% when 'tr' %}Ücretsiz İndir →
-          {% else %}免费下载 →
-        {% endcase %}
-      </a>
     </div>
   </aside>
 </div>
