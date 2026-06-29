@@ -14,6 +14,7 @@
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
   <link rel="apple-touch-icon" href="{{ '/assets/images/tonbovpn-logo.png' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/css/flag-icons.min.css"/>
   {% feed_meta %}
   {% seo %}
   {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
@@ -82,22 +83,22 @@
           <div class="lang-dropdown">
             <button class="lang-dropdown__btn" aria-label="Switch language">
               {% case lang %}
-                {% when 'en' %}🌐 EN
-                {% when 'vi' %}🌐 Tiếng Việt
-                {% when 'ja' %}🌐 日本語
-                {% when 'ko' %}🌐 한국어
-                {% when 'tr' %}🌐 Türkçe
-                {% else %}🌐 中文
+                {% when 'en' %}<span class="fi fi-us"></span> English
+                {% when 'vi' %}<span class="fi fi-vn"></span> Tiếng Việt
+                {% when 'ja' %}<span class="fi fi-jp"></span> 日本語
+                {% when 'ko' %}<span class="fi fi-kr"></span> 한국어
+                {% when 'tr' %}<span class="fi fi-tr"></span> Türkçe
+                {% else %}<span class="fi fi-cn"></span> 中文
               {% endcase %}
               <span class="lang-dropdown__arrow">▾</span>
             </button>
             <ul class="lang-dropdown__menu">
-              <li><a href="/" {% if lang == 'zh' %}class="active"{% endif %}>🇨🇳 中文</a></li>
-              <li><a href="/en/" {% if lang == 'en' %}class="active"{% endif %}>🇺🇸 English</a></li>
-              <li><a href="/vi/" {% if lang == 'vi' %}class="active"{% endif %}>🇻🇳 Tiếng Việt</a></li>
-              <li><a href="/ja/" {% if lang == 'ja' %}class="active"{% endif %}>🇯🇵 日本語</a></li>
-              <li><a href="/ko/" {% if lang == 'ko' %}class="active"{% endif %}>🇰🇷 한국어</a></li>
-              <li><a href="/tr/" {% if lang == 'tr' %}class="active"{% endif %}>🇹🇷 Türkçe</a></li>
+              <li><a href="/" {% if lang == 'zh' %}class="active"{% endif %}><span class="fi fi-cn"></span> 中文</a></li>
+              <li><a href="/en/" {% if lang == 'en' %}class="active"{% endif %}><span class="fi fi-us"></span> English</a></li>
+              <li><a href="/vi/" {% if lang == 'vi' %}class="active"{% endif %}><span class="fi fi-vn"></span> Tiếng Việt</a></li>
+              <li><a href="/ja/" {% if lang == 'ja' %}class="active"{% endif %}><span class="fi fi-jp"></span> 日本語</a></li>
+              <li><a href="/ko/" {% if lang == 'ko' %}class="active"{% endif %}><span class="fi fi-kr"></span> 한국어</a></li>
+              <li><a href="/tr/" {% if lang == 'tr' %}class="active"{% endif %}><span class="fi fi-tr"></span> Türkçe</a></li>
             </ul>
           </div>
         </div>
