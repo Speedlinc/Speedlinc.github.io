@@ -1,0 +1,47 @@
+zh:
+  - title: 首页
+    url: /
+  - title: 关于
+    url: /about/
+  - title: 免费下载
+    url: https://www.tonbovpn.com/zh/
+
+en:
+  - title: Home
+    url: /en/
+  - title: About
+    url: /about/
+  - title: Free Download
+    url: https://www.tonbovpn.com/
+
+vi:
+  - title: Trang chủ
+    url: /vi/
+  - title: Giới thiệu
+    url: /about/
+  - title: Tải miễn phí
+    url: https://www.tonbovpn.com/vi/
+
+ja:
+  - title: ホーム
+    url: /ja/
+  - title: About
+    url: /about/
+  - title: 無料ダウンロード
+    url: https://www.tonbovpn.com/ja/
+
+ko:
+  - title: 홈
+    url: /ko/
+  - title: 소개
+    url: /about/
+  - title: 무료 다운로드
+    url: https://www.tonbovpn.com/ko/
+
+tr:
+  - title: Ana Sayfa
+    url: /tr/
+  - title: Hakkında
+    url: /about/
+  - title: Ücretsiz İndir
+    url: https://www.tonbovpn.com/tr/

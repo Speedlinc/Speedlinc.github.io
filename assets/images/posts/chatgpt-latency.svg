@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,'PingFang SC','Microsoft YaHei',sans-serif">
+  <rect width="1000" height="320" rx="18" fill="#0e1830" stroke="#2a3a5e" stroke-opacity="0.6"/>
+  <text x="40" y="56" fill="#dce6ff" font-size="26" font-weight="800">AI 智能路由前后延迟对比</text>
+  <text x="40" y="88" fill="#8ea4ca" font-size="17">延迟越低越稳，对话与补全越跟手（单位 ms）</text>
+  <line x1="40" y1="278" x2="960" y2="278" stroke="#2a3a5e"/>
+  <g>
+    <rect x="300" y="120" width="150" height="158" rx="10" fill="#ff6b6b" fill-opacity="0.85"/>
+    <text x="375" y="150" text-anchor="middle" fill="#ffffff" font-size="26" font-weight="800">860</text>
+    <text x="375" y="304" text-anchor="middle" fill="#9fb3d6" font-size="18">默认线路</text>
+    <rect x="600" y="240" width="150" height="38" rx="10" fill="#4f8cff"/>
+    <text x="675" y="226" text-anchor="middle" fill="#cfe0ff" font-size="26" font-weight="800">190</text>
+    <text x="675" y="304" text-anchor="middle" fill="#9fb3d6" font-size="18">AI 智能路由</text>
+  </g>
+</svg>

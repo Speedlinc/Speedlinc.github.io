@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,'PingFang SC','Microsoft YaHei',sans-serif">
+  <rect width="1000" height="320" rx="18" fill="#0e1830" stroke="#2a3a5e" stroke-opacity="0.6"/>
+  <text x="40" y="56" fill="#dce6ff" font-size="26" font-weight="800">公共出口 vs 独享 IP</text>
+  <g>
+    <rect x="40" y="86" width="430" height="206" rx="14" fill="#1c1620" stroke="#ff6b6b" stroke-opacity="0.5"/>
+    <text x="70" y="126" fill="#ffd7d7" font-size="22" font-weight="800">公共出口</text>
+    <g fill="#f0c8c8" font-size="18">
+      <text x="70" y="166">✗ 多人共用，行为各异</text>
+      <text x="70" y="202">✗ 风控概率受他人影响</text>
+      <text x="70" y="238">✗ 登录态一般，易掉线</text>
+      <text x="70" y="274">✗ 适合轻度使用</text>
+    </g>
+    <rect x="530" y="86" width="430" height="206" rx="14" fill="#0e2620" stroke="#36d1a0" stroke-opacity="0.6"/>
+    <text x="560" y="126" fill="#bff3e2" font-size="22" font-weight="800">独享 IP</text>
+    <g fill="#cdeee2" font-size="18">
+      <text x="560" y="166">✓ 出口只服务你</text>
+      <text x="560" y="202">✓ 风控概率明显更低</text>
+      <text x="560" y="238">✓ 登录更稳，长任务不断</text>
+      <text x="560" y="274">✓ 适合重度用户 / 团队</text>
+    </g>
+  </g>
+</svg>

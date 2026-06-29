@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,'PingFang SC','Microsoft YaHei',sans-serif">
+  <rect width="1000" height="320" rx="18" fill="#0e1830" stroke="#2a3a5e" stroke-opacity="0.6"/>
+  <text x="40" y="56" fill="#dce6ff" font-size="26" font-weight="800">智能路由前后丢包率对比</text>
+  <text x="40" y="88" fill="#8ea4ca" font-size="17">丢包越低，长任务越不容易中断（单位 %）</text>
+  <line x1="40" y1="278" x2="960" y2="278" stroke="#2a3a5e"/>
+  <g>
+    <rect x="300" y="118" width="150" height="160" rx="10" fill="#ff6b6b" fill-opacity="0.85"/>
+    <text x="375" y="148" text-anchor="middle" fill="#ffffff" font-size="26" font-weight="800">7%</text>
+    <text x="375" y="304" text-anchor="middle" fill="#9fb3d6" font-size="18">默认线路</text>
+    <rect x="600" y="252" width="150" height="26" rx="10" fill="#b07bff"/>
+    <text x="675" y="238" text-anchor="middle" fill="#e7defc" font-size="26" font-weight="800">1%</text>
+    <text x="675" y="304" text-anchor="middle" fill="#9fb3d6" font-size="18">AI 智能路由</text>
+  </g>
+</svg>

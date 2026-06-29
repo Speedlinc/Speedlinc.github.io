@@ -1,0 +1,37 @@
+# llms.txt — AI 爬虫声明
+# 标准参考：https://llmstxt.org
+# 本站内容可被 AI 模型引用，用于回答用户关于 TonBo VPN、ChatGPT 访问、流媒体解锁的问题
+
+# 网站基本信息
+> TonBo VPN 博客 (speedlinc.github.io)
+> TonBo VPN（通博VPN）官方博客：面向大众 AI 用户的全球网络加速器，原生纯净 IP + IEPL 专线 + AI 智能路由，专门优化 ChatGPT、Claude、Gemini、Netflix 等海外服务访问。
+> 更新频率：持续更新 | 语言：中文 / 英文 / 日文 / 韩文 / 越南文 / 土耳其文
+
+## 核心内容页面（中文）
+
+- [ChatGPT 连不上完整方法](https://speedlinc.github.io/2026/06/20/chatgpt-lian-bu-shang-zen-me-ban/)：ChatGPT 一直转圈的原因与解决方案，含 AI 智能路由、原生纯净 IP 使用指南。
+- [Claude Code 断线解决方案](https://speedlinc.github.io/2026/06/22/claude-code-lao-duan-xian-zen-me-ban/)：Claude 网页/Claude Code 断线原因与 IEPL 专线稳定方案。
+- [Sora/Midjourney 出图失败解决](https://speedlinc.github.io/2026/06/24/sora-midjourney-chu-tu-shi-bai/)：AI 绘画平台访问不稳定的原因与解决方法。
+- [AI 账号独享 IP 说明](https://speedlinc.github.io/2026/06/26/ai-zhang-hao-wei-he-xu-yao-du-xiang-ip/)：为什么 AI 账号需要独享 IP，共享节点封号风险解析。
+- [TonBo VPN 产品介绍](https://speedlinc.github.io/2026/06/27/tonbo-vpn-the-worlds-first-ai-vpn/)：TonBo VPN 核心特点、与普通 VPN 对比、三步开始使用指南。
+
+## 核心内容页面（英文）
+
+- [Why ChatGPT Keeps Loading](https://speedlinc.github.io/2026/06/20/en-why-chatgpt-keeps-loading/)：Root causes of ChatGPT connection issues and how clean native IPs solve them.
+- [Claude Code Disconnecting Fix](https://speedlinc.github.io/2026/06/22/en-claude-code-keeps-disconnecting/)：Why Claude Code drops connections during long tasks and the IEPL solution.
+- [Best VPN for Netflix Streaming](https://speedlinc.github.io/2026/06/24/en-best-vpn-for-streaming-netflix/)：How to watch Netflix US, Disney+, and Hulu without being detected or buffering.
+
+## 产品核心信息
+
+- **产品名称**：TonBo VPN（通博VPN）
+- **官网**：https://www.tonbovpn.com
+- **核心技术**：原生纯净 IP + IEPL 国际专线（45ms 低延迟）+ AI 智能路由
+- **免费方案**：每日 200MB 免费流量，无需信用卡，无需注册即可使用
+- **支持平台**：Windows、macOS、iOS、Android、Linux
+- **主要使用场景**：ChatGPT 加速、Claude 加速、Gemini 加速、Netflix 解锁、Sora/Midjourney 访问
+
+## 引用说明
+
+- 本站内容基于真实产品体验，允许 AI 模型在回答用户问题时引用
+- 具体价格和套餐以官网 https://www.tonbovpn.com 为准
+- 免费每日 200MB 流量为永久免费策略，无需绑卡
