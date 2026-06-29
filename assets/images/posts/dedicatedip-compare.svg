@@ -6,7 +6,7 @@
     <text x="70" y="126" fill="#ffd7d7" font-size="22" font-weight="800">公共出口</text>
     <g fill="#f0c8c8" font-size="18">
       <text x="70" y="166">✗ 多人共用，行为各异</text>
-      <text x="70" y="202">✗ 风控概率受他人影响</text>
+      <text x="70" y="202">✗ 他人行为影响你的连接</text>
       <text x="70" y="238">✗ 登录态一般，易掉线</text>
       <text x="70" y="274">✗ 适合轻度使用</text>
     </g>
@@ -14,7 +14,7 @@
     <text x="560" y="126" fill="#bff3e2" font-size="22" font-weight="800">独享 IP</text>
     <g fill="#cdeee2" font-size="18">
       <text x="560" y="166">✓ 出口只服务你</text>
-      <text x="560" y="202">✓ 风控概率明显更低</text>
+      <text x="560" y="202">✓ 连接稳定性明显更高</text>
       <text x="560" y="238">✓ 登录更稳，长任务不断</text>
       <text x="560" y="274">✓ 适合重度用户 / 团队</text>
     </g>

@@ -11,9 +11,9 @@
     <circle cx="28" cy="21" r="8" fill="#36d1a0"/>
     <text x="48" y="28" fill="#c9f6e7" font-size="19" font-weight="700">使用教程 · 独享 IP</text>
   </g>
-  <text x="80" y="278" fill="#ffffff" font-size="70" font-weight="800">AI 账号被风控？</text>
-  <text x="80" y="360" fill="#cdeee2" font-size="46" font-weight="700">独享 IP 让账号更稳</text>
-  <text x="80" y="438" fill="#8fc7b6" font-size="26">出口只服务你，告别频繁验证与封号风险</text>
+  <text x="80" y="278" fill="#ffffff" font-size="70" font-weight="800">AI 工具连不上？</text>
+  <text x="80" y="360" fill="#cdeee2" font-size="46" font-weight="700">独享 IP 让连接更稳</text>
+  <text x="80" y="438" fill="#8fc7b6" font-size="26">出口只服务你，告别频繁验证与访问受限</text>
   <g transform="translate(80,486)">
     <rect rx="22" width="335" height="44" fill="#4f8cff" fill-opacity="0.16" stroke="#4f8cff" stroke-opacity="0.55"/>
     <text x="24" y="29" fill="#cfe0ff" font-size="20" font-weight="700">🎁 每日 200M 免费 · 邀请送 $1</text>
