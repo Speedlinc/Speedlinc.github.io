@@ -14,7 +14,6 @@
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
   <link rel="apple-touch-icon" href="{{ '/assets/images/tonbovpn-logo.png' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/css/flag-icons.min.css"/>
   {% feed_meta %}
   {% seo %}
   {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
@@ -83,22 +82,22 @@
           <div class="lang-dropdown">
             <button class="lang-dropdown__btn" aria-label="Switch language">
               {% case lang %}
-                {% when 'en' %}<span class="fi fi-us"></span> English
-                {% when 'vi' %}<span class="fi fi-vn"></span> Tiếng Việt
-                {% when 'ja' %}<span class="fi fi-jp"></span> 日本語
-                {% when 'ko' %}<span class="fi fi-kr"></span> 한국어
-                {% when 'tr' %}<span class="fi fi-tr"></span> Türkçe
-                {% else %}<span class="fi fi-cn"></span> 中文
+                {% when 'en' %}<img src="https://flagcdn.com/20x15/us.png" width="20" height="15" alt="US" class="flag-icon"> English
+                {% when 'vi' %}<img src="https://flagcdn.com/20x15/vn.png" width="20" height="15" alt="VN" class="flag-icon"> Tiếng Việt
+                {% when 'ja' %}<img src="https://flagcdn.com/20x15/jp.png" width="20" height="15" alt="JP" class="flag-icon"> 日本語
+                {% when 'ko' %}<img src="https://flagcdn.com/20x15/kr.png" width="20" height="15" alt="KR" class="flag-icon"> 한국어
+                {% when 'tr' %}<img src="https://flagcdn.com/20x15/tr.png" width="20" height="15" alt="TR" class="flag-icon"> Türkçe
+                {% else %}<img src="https://flagcdn.com/20x15/cn.png" width="20" height="15" alt="CN" class="flag-icon"> 中文
               {% endcase %}
               <span class="lang-dropdown__arrow">▾</span>
             </button>
             <ul class="lang-dropdown__menu">
-              <li><a href="/" {% if lang == 'zh' %}class="active"{% endif %}><span class="fi fi-cn"></span> 中文</a></li>
-              <li><a href="/en/" {% if lang == 'en' %}class="active"{% endif %}><span class="fi fi-us"></span> English</a></li>
-              <li><a href="/vi/" {% if lang == 'vi' %}class="active"{% endif %}><span class="fi fi-vn"></span> Tiếng Việt</a></li>
-              <li><a href="/ja/" {% if lang == 'ja' %}class="active"{% endif %}><span class="fi fi-jp"></span> 日本語</a></li>
-              <li><a href="/ko/" {% if lang == 'ko' %}class="active"{% endif %}><span class="fi fi-kr"></span> 한국어</a></li>
-              <li><a href="/tr/" {% if lang == 'tr' %}class="active"{% endif %}><span class="fi fi-tr"></span> Türkçe</a></li>
+              <li><a href="/" {% if lang == 'zh' %}class="active"{% endif %}><img src="https://flagcdn.com/20x15/cn.png" width="20" height="15" alt="CN" class="flag-icon"> 中文</a></li>
+              <li><a href="/en/" {% if lang == 'en' %}class="active"{% endif %}><img src="https://flagcdn.com/20x15/us.png" width="20" height="15" alt="US" class="flag-icon"> English</a></li>
+              <li><a href="/vi/" {% if lang == 'vi' %}class="active"{% endif %}><img src="https://flagcdn.com/20x15/vn.png" width="20" height="15" alt="VN" class="flag-icon"> Tiếng Việt</a></li>
+              <li><a href="/ja/" {% if lang == 'ja' %}class="active"{% endif %}><img src="https://flagcdn.com/20x15/jp.png" width="20" height="15" alt="JP" class="flag-icon"> 日本語</a></li>
+              <li><a href="/ko/" {% if lang == 'ko' %}class="active"{% endif %}><img src="https://flagcdn.com/20x15/kr.png" width="20" height="15" alt="KR" class="flag-icon"> 한국어</a></li>
+              <li><a href="/tr/" {% if lang == 'tr' %}class="active"{% endif %}><img src="https://flagcdn.com/20x15/tr.png" width="20" height="15" alt="TR" class="flag-icon"> Türkçe</a></li>
             </ul>
           </div>
         </div>
