@@ -25,7 +25,7 @@ speakable_selector:
 
 很多人第一次用 GPT 时都会遇到同一个问题：页面一直转圈，或者刚输入两句就提示网络错误。其实大多数情况不是账号坏了，而是**你的网络到海外 AI 服务器这一段链路不稳**。这篇文章用最通俗的话，把 ChatGPT 连不上的原因和稳定使用 GPT 的方法讲清楚。
 
-> 👉 新用户每日 **200M 免费流量、免注册**先试：[www.tonbovpn.com](https://www.tonbovpn.com/zh/)
+> 👉 新用户每日 **200M 免费流量、免注册**先试：[www.tonbovpn.com](https://www.tonbovpn.com/zh/download)
 
 ## ChatGPT 一直转圈，到底卡在哪一步
 
@@ -75,4 +75,4 @@ speakable_selector:
 
 ChatGPT 连不上大多是跨境链路的问题，而不是账号坏了。用 AI 智能路由自动择优、再配合原生纯净 IP 提升访问稳定性，就能把 GPT 加速做得又快又稳。
 
-> 🎯 [立即免费试用 TonBo VPN →](https://www.tonbovpn.com/zh/)
+> 🎯 [立即免费试用 TonBo VPN →](https://www.tonbovpn.com/zh/download)

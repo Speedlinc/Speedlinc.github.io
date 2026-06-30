@@ -23,7 +23,7 @@ speakable_selector:
 
 用 Claude 写东西、用 Claude Code 跑任务的人，最怕的就是写到一半突然断线：网页转圈、对话发不出去，或者 Claude Code 长任务跑到一半连接掉了，前面的进度白费。这篇文章用通俗的话讲清 Claude 老断线的原因，以及怎么一键稳定连上。
 
-> 👉 新用户每日 **200M 免费流量、免注册**先试：[www.tonbovpn.com](https://www.tonbovpn.com/zh/)
+> 👉 新用户每日 **200M 免费流量、免注册**先试：[www.tonbovpn.com](https://www.tonbovpn.com/zh/download)
 
 ## Claude 为什么总是断线
 
@@ -73,4 +73,4 @@ Claude 的网页对话和 Claude Code 这类工具，都需要和海外服务器
 
 Claude 老断线大多是长连接被打断和出口 IP 连接受限造成的。用 IEPL 专线和 AI 智能路由保持稳定路径，再用独享 IP 撑住长任务，就能让 Claude 加速又稳又顺。
 
-> 🎯 [立即免费试用 TonBo VPN →](https://www.tonbovpn.com/zh/)
+> 🎯 [立即免费试用 TonBo VPN →](https://www.tonbovpn.com/zh/download)

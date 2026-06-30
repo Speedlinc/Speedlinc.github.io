@@ -127,8 +127,8 @@ image: /assets/images/covers/chatgpt.svg   # 封面图，见下方可用列表
 - 字数：中文 800–1500 字，小语种 600–1200 字
 - 结构：引言 → 问题 → 解决方案 → 实操步骤 → 总结
 - 必须包含：一个 markdown 表格、一个 blockquote CTA（链接到官网）
-- CTA 格式：`> 🚀 [立即免费下载](https://www.tonbovpn.com/zh/) — 每日 200M 免费，邀请好友各得 $1`
-- 语言页面 CTA 的链接使用对应语言 URL：`/zh/`, `/en/`, `/vi/`, `/ja/`, `/ko/`, `/tr/`
+- CTA 格式：`> 🚀 [立即免费下载](https://www.tonbovpn.com/zh/download) — 每日 200M 免费，邀请好友各得 $1`
+- 语言页面 CTA 的链接使用对应语言 URL：`/zh/download`, `/en/download`, `/vi/download`, `/ja/download`, `/ko/download`, `/tr/download`
 
 ---
 

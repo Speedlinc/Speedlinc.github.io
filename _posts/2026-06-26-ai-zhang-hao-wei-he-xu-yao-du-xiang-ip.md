@@ -23,7 +23,7 @@ speakable_selector:
 
 用 AI 工具时间长了，很多人都遇到过这种情况：账号突然频繁要求验证、莫名其妙需要重新登录，甚至直接被限制。第一反应是不是自己违规了，其实大多数时候问题出在出口 IP 上。这篇文章用通俗的话讲清，为什么 AI 工具重度用户需要独享 IP、共享出口有什么连接质量问题，以及怎么解决。
 
-> 👉 新用户每日 **200M 免费流量、免注册**先试：[www.tonbovpn.com](https://www.tonbovpn.com/zh/)
+> 👉 新用户每日 **200M 免费流量、免注册**先试：[www.tonbovpn.com](https://www.tonbovpn.com/zh/download)
 
 ## 共享出口的连接质量问题
 
@@ -77,4 +77,4 @@ speakable_selector:
 
 AI 工具账号频繁验证和被限，大多是共享出口 IP 质量问题造成的。换独享 IP 让出口只服务你，再配合 AI 智能路由和 AI 安全隧道，连接会明显更稳定。
 
-> 🎯 [立即免费试用 TonBo VPN →](https://www.tonbovpn.com/zh/)
+> 🎯 [立即免费试用 TonBo VPN →](https://www.tonbovpn.com/zh/download)

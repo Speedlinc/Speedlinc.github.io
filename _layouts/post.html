@@ -109,22 +109,22 @@ layout: default
 
     <footer class="post__footer">
       {% if lang == 'en' %}
-        <a class="btn btn--primary" href="https://www.tonbovpn.com/en/">🎁 200MB Free Daily · Try TonBo VPN Now</a>
+        <a class="btn btn--primary" href="https://www.tonbovpn.com/en/download">🎁 200MB Free Daily · Try TonBo VPN Now</a>
         <a class="btn btn--ghost" href="{{ '/en/' | relative_url }}">← Back to Home</a>
       {% elsif lang == 'vi' %}
-        <a class="btn btn--primary" href="https://www.tonbovpn.com/vi/">🎁 200MB miễn phí mỗi ngày · Tải TonBo VPN</a>
+        <a class="btn btn--primary" href="https://www.tonbovpn.com/vi/download">🎁 200MB miễn phí mỗi ngày · Tải TonBo VPN</a>
         <a class="btn btn--ghost" href="{{ '/vi/' | relative_url }}">← Trang Chủ</a>
       {% elsif lang == 'ja' %}
-        <a class="btn btn--primary" href="https://www.tonbovpn.com/ja/">🎁 毎日200MB無料 · TonBo VPNをダウンロード</a>
+        <a class="btn btn--primary" href="https://www.tonbovpn.com/ja/download">🎁 毎日200MB無料 · TonBo VPNをダウンロード</a>
         <a class="btn btn--ghost" href="{{ '/ja/' | relative_url }}">← ホームへ</a>
       {% elsif lang == 'ko' %}
-        <a class="btn btn--primary" href="https://www.tonbovpn.com/ko/">🎁 매일 200MB 무료 · TonBo VPN 다운로드</a>
+        <a class="btn btn--primary" href="https://www.tonbovpn.com/ko/download">🎁 매일 200MB 무료 · TonBo VPN 다운로드</a>
         <a class="btn btn--ghost" href="{{ '/ko/' | relative_url }}">← 홈으로</a>
       {% elsif lang == 'tr' %}
-        <a class="btn btn--primary" href="https://www.tonbovpn.com/tr/">🎁 Günlük 200MB Ücretsiz · TonBo VPN İndir</a>
+        <a class="btn btn--primary" href="https://www.tonbovpn.com/tr/download">🎁 Günlük 200MB Ücretsiz · TonBo VPN İndir</a>
         <a class="btn btn--ghost" href="{{ '/tr/' | relative_url }}">← Ana Sayfa</a>
       {% else %}
-        <a class="btn btn--primary" href="https://www.tonbovpn.com/zh/">🎁 每日 200M 免费 · 立即下载 TonBo VPN</a>
+        <a class="btn btn--primary" href="https://www.tonbovpn.com/zh/download">🎁 每日 200M 免费 · 立即下载 TonBo VPN</a>
         <a class="btn btn--ghost" href="{{ '/' | relative_url }}">← 返回首页</a>
       {% endif %}
     </footer>
@@ -175,7 +175,7 @@ layout: default
             <li>ChatGPT / Claude 专线加速</li>
         {% endcase %}
       </ul>
-      <a class="btn btn--primary sidebar__cta-btn" href="https://www.tonbovpn.com/{% if lang != 'zh' %}{{ lang }}/{% else %}zh/{% endif %}">
+      <a class="btn btn--primary sidebar__cta-btn" href="https://www.tonbovpn.com/{% if lang != 'zh' %}{{ lang }}/{% else %}zh/{% endif %}download">
         {% case lang %}
           {% when 'en' %}Free Download →
           {% when 'vi' %}Tải Miễn Phí →
