@@ -45,3 +45,59 @@ tr:
     url: /about/
   - title: Ücretsiz İndir
     url: https://www.tonbovpn.com/tr/download
+
+zh-HK:
+  - title: 首頁
+    url: /zh-HK/
+  - title: 關於
+    url: /about/
+  - title: 免費下載
+    url: https://www.tonbovpn.com/zh-HK/download
+
+zh-TW:
+  - title: 首頁
+    url: /zh-TW/
+  - title: 關於
+    url: /about/
+  - title: 免費下載
+    url: https://www.tonbovpn.com/zh-TW/download
+
+id:
+  - title: Beranda
+    url: /id/
+  - title: Tentang
+    url: /about/
+  - title: Unduh Gratis
+    url: https://www.tonbovpn.com/id/download
+
+ru:
+  - title: Главная
+    url: /ru/
+  - title: О нас
+    url: /about/
+  - title: Скачать бесплатно
+    url: https://www.tonbovpn.com/ru/download
+
+de:
+  - title: Startseite
+    url: /de/
+  - title: Über uns
+    url: /about/
+  - title: Kostenlos laden
+    url: https://www.tonbovpn.com/de/download
+
+nl:
+  - title: Home
+    url: /nl/
+  - title: Over ons
+    url: /about/
+  - title: Gratis downloaden
+    url: https://www.tonbovpn.com/nl/download
+
+fr:
+  - title: Accueil
+    url: /fr/
+  - title: À propos
+    url: /about/
+  - title: Télécharger gratuitement
+    url: https://www.tonbovpn.com/fr/download
