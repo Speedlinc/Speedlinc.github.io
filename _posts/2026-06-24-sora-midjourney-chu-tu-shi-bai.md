@@ -1,6 +1,8 @@
 ---
 title: "Sora、Midjourney 出图总失败？AI 绘画稳定访问全攻略"
 date: 2026-06-24 10:00:00 +0800
+redirect_from:
+  - /2026/06/24/sora-midjourney-chu-tu-shi-bai/
 categories: [使用教程]
 tags: [Midjourney 加速, Sora 加速, AI 绘画, AI 智能路由, 独享 IP, TonBo VPN]
 excerpt: "Midjourney 排队卡死、Sora 生成失败、上传图片传不上？讲清原因，并用 AI 智能路由 + 原生纯净 IP 稳定访问 AI 绘画平台。每日 200M 免费，免注册先试。"

@@ -1,6 +1,8 @@
 ---
 title: "智能 VPN 是什么？AI VPN 和普通 VPN 的核心区别"
 date: 2026-07-01 10:00:00 +0800
+redirect_from:
+  - /2026/07/01/zhi-neng-vpn-shi-shen-me/
 categories: [AI工具]
 tags: [智能VPN, AI VPN, AI加速器, TonBo VPN, IEPL专线]
 lang: zh

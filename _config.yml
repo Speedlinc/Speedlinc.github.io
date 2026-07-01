@@ -3,7 +3,7 @@ description: >-
   TonBo VPN（通博VPN）官方博客：一键稳定连上 ChatGPT、Claude、Netflix、YouTube，AI 办公、跨境电商、流媒体解锁全搞定。每日 200M 免费，邀请好友各得 $1。
 url: "https://speedlinc.github.io"
 baseurl: ""
-lang: zh-CN
+lang: en
 
 author:
   name: "TonBo VPN"
@@ -25,6 +25,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 exclude:
   - Gemfile
@@ -40,6 +41,7 @@ defaults:
     values:
       layout: post
       lang: zh
+      permalink: /zh/:year/:month/:day/:title/
   - scope:
       path: ""
       type: pages

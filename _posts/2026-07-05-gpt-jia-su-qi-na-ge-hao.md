@@ -1,6 +1,8 @@
 ---
 title: "GPT 加速器哪个好？2026 年 ChatGPT 加速器横向对比"
 date: 2026-07-05 10:00:00 +0800
+redirect_from:
+  - /2026/07/05/gpt-jia-su-qi-na-ge-hao/
 categories: [使用教程]
 tags: [GPT加速器, ChatGPT加速器, AI加速器, TonBo VPN, AI VPN]
 lang: zh

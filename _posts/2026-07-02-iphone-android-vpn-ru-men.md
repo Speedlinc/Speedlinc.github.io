@@ -1,6 +1,8 @@
 ---
 title: "iPhone / Android 上手 TonBo VPN — 手机端全攻略"
 date: 2026-07-02 10:00:00 +0800
+redirect_from:
+  - /2026/07/02/iphone-android-vpn-ru-men/
 categories: [使用教程]
 tags: [手机VPN, iOS VPN, Android VPN, TonBo VPN, 移动端]
 lang: zh

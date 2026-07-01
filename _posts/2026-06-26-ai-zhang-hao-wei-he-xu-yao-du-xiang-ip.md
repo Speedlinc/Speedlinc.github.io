@@ -1,6 +1,8 @@
 ---
 title: "为什么 AI 工具需要独享 IP？连接稳定性全解析"
 date: 2026-06-26 10:00:00 +0800
+redirect_from:
+  - /2026/06/26/ai-zhang-hao-wei-he-xu-yao-du-xiang-ip/
 categories: [使用教程]
 tags: [独享IP, ChatGPT, AI加速, TonBo VPN, 稳定连接]
 excerpt: "共享节点出口 IP 被大量用户占用，访问 ChatGPT、Claude 时容易出现连接不稳、频繁验证等问题。独享 IP 让你独占一个纯净出口，访问体验稳定得多。"

@@ -1,6 +1,8 @@
 ---
 title: "Gemini 加速器推荐：2026 年怎么稳定访问 Google AI"
 date: 2026-07-08 10:00:00 +0800
+redirect_from:
+  - /2026/07/08/gemini-jia-su-qi-tui-jian/
 categories: [AI工具]
 tags: [Gemini加速器, Gemini VPN, Google AI, TonBo VPN, AI加速器]
 lang: zh

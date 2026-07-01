@@ -2,13 +2,13 @@
 layout: default
 ---
 
-{% assign lang = page.lang | default: 'zh' %}
+{% assign lang = page.lang | default: 'en' %}
 {% case lang %}
-  {% when 'en' %}
-    {% assign h_badge = 'TonBo VPN · Global Accelerator' %}
-    {% assign h_title = 'TonBo VPN Blog' %}
-    {% assign h_sub   = 'More Than an AI VPN — Reach Anything Anywhere' %}
-    {% assign h_cta   = '200MB Free Daily · Invite a Friend, Both Get $1' %}
+  {% when 'zh' %}
+    {% assign h_badge = 'TonBo VPN · 全球加速器' %}
+    {% assign h_title = 'TonBo VPN 博客' %}
+    {% assign h_sub   = '不止 AI VPN，全球皆可触达' %}
+    {% assign h_cta   = '每日 200M 免费 · 邀请送 $1' %}
   {% when 'vi' %}
     {% assign h_badge = 'TonBo VPN · Tăng Tốc Toàn Cầu' %}
     {% assign h_title = 'Blog TonBo VPN' %}
@@ -65,23 +65,23 @@ layout: default
     {% assign h_sub   = "Plus qu'un AI VPN — Accessible partout" %}
     {% assign h_cta   = '200Mo Gratuit/Jour · Invitez un Ami, Tous $1' %}
   {% else %}
-    {% assign h_badge = 'TonBo VPN · 全球加速器' %}
-    {% assign h_title = 'TonBo VPN 博客' %}
-    {% assign h_sub   = '不止 AI VPN，全球皆可触达' %}
-    {% assign h_cta   = '每日 200M 免费 · 邀请送 $1' %}
+    {% assign h_badge = 'TonBo VPN · Global Accelerator' %}
+    {% assign h_title = 'TonBo VPN Blog' %}
+    {% assign h_sub   = 'More Than an AI VPN — Reach Anything Anywhere' %}
+    {% assign h_cta   = '200MB Free Daily · Invite a Friend, Both Get $1' %}
 {% endcase %}
 
 {% case lang %}
-  {% when 'en' %}
-    {% assign label_featured = 'Featured' %}
-    {% assign label_min_read = 'min read' %}
-    {% assign label_stats1   = 'Continuously updated' %}
-    {% assign label_stats2   = '13 languages' %}
-    {% assign label_stats3   = 'Real-world tested' %}
-    {% assign cat1 = '🤖 AI Tools' %}
-    {% assign cat2 = '📺 Streaming' %}
-    {% assign cat3 = '🌐 VPN Reviews' %}
-    {% assign cat4 = '📖 Tutorials' %}
+  {% when 'zh' %}
+    {% assign label_featured = '精选' %}
+    {% assign label_min_read = '分钟' %}
+    {% assign label_stats1   = '持续更新' %}
+    {% assign label_stats2   = '13种语言' %}
+    {% assign label_stats3   = '多地区实测' %}
+    {% assign cat1 = '🤖 AI工具' %}
+    {% assign cat2 = '📺 流媒体' %}
+    {% assign cat3 = '🌐 VPN评测' %}
+    {% assign cat4 = '📖 使用教程' %}
   {% when 'vi' %}
     {% assign label_featured = 'Nổi Bật' %}
     {% assign label_min_read = 'phút đọc' %}
@@ -193,15 +193,15 @@ layout: default
     {% assign cat3 = '🌐 Avis VPN' %}
     {% assign cat4 = '📖 Guides' %}
   {% else %}
-    {% assign label_featured = '精选' %}
-    {% assign label_min_read = '分钟' %}
-    {% assign label_stats1   = '持续更新' %}
-    {% assign label_stats2   = '13种语言' %}
-    {% assign label_stats3   = '多地区实测' %}
-    {% assign cat1 = '🤖 AI工具' %}
-    {% assign cat2 = '📺 流媒体' %}
-    {% assign cat3 = '🌐 VPN评测' %}
-    {% assign cat4 = '📖 使用教程' %}
+    {% assign label_featured = 'Featured' %}
+    {% assign label_min_read = 'min read' %}
+    {% assign label_stats1   = 'Continuously updated' %}
+    {% assign label_stats2   = '13 languages' %}
+    {% assign label_stats3   = 'Real-world tested' %}
+    {% assign cat1 = '🤖 AI Tools' %}
+    {% assign cat2 = '📺 Streaming' %}
+    {% assign cat3 = '🌐 VPN Reviews' %}
+    {% assign cat4 = '📖 Tutorials' %}
 {% endcase %}
 
 <section class="hero">
@@ -253,7 +253,7 @@ layout: default
 </div>
 
 {% case lang %}
-  {% when 'en' %}{% assign section_title = 'Latest Articles' %}
+  {% when 'zh' %}{% assign section_title = '最新文章' %}
   {% when 'vi' %}{% assign section_title = 'Bài viết mới nhất' %}
   {% when 'ja' %}{% assign section_title = '最新記事' %}
   {% when 'ko' %}{% assign section_title = '최신 글' %}
@@ -264,7 +264,7 @@ layout: default
   {% when 'de' %}{% assign section_title = 'Neueste Artikel' %}
   {% when 'nl' %}{% assign section_title = 'Laatste artikelen' %}
   {% when 'fr' %}{% assign section_title = 'Derniers articles' %}
-  {% else %}{% assign section_title = '最新文章' %}
+  {% else %}{% assign section_title = 'Latest Articles' %}
 {% endcase %}
 
 <h2 class="section-title">{{ section_title }}</h2>
@@ -286,7 +286,7 @@ layout: default
         <span class="post-featured__meta">
           <time>{{ featured_post.date | date: '%Y-%m-%d' }}</time>{% if featured_post.categories.size > 0 %} · {{ featured_post.categories | first }}{% endif %} · {{ featured_post.content | strip_html | strip_newlines | size | divided_by: 600 | plus: 1 }} {{ label_min_read }}
         </span>
-        <span class="post-featured__more">{% case lang %}{% when 'en' %}Read more →{% when 'vi' %}Đọc thêm →{% when 'ja' %}続きを読む →{% when 'ko' %}더 읽기 →{% when 'tr' %}Devamını oku →{% when 'zh-HK' or 'zh-TW' %}閱讀全文 →{% when 'id' %}Baca selengkapnya →{% when 'ru' %}Читать далее →{% when 'de' %}Mehr lesen →{% when 'nl' %}Meer lezen →{% when 'fr' %}Lire la suite →{% else %}阅读全文 →{% endcase %}</span>
+        <span class="post-featured__more">{% case lang %}{% when 'zh' %}阅读全文 →{% when 'vi' %}Đọc thêm →{% when 'ja' %}続きを読む →{% when 'ko' %}더 읽기 →{% when 'tr' %}Devamını oku →{% when 'zh-HK' or 'zh-TW' %}閱讀全文 →{% when 'id' %}Baca selengkapnya →{% when 'ru' %}Читать далее →{% when 'de' %}Mehr lesen →{% when 'nl' %}Meer lezen →{% when 'fr' %}Lire la suite →{% else %}Read more →{% endcase %}</span>
       </div>
     </div>
   </a>
@@ -307,7 +307,7 @@ layout: default
         <h3 class="post-item__title">{{ post.title }}</h3>
         <p class="post-item__excerpt">{{ post.excerpt | strip_html | strip_newlines | truncate: 62 }}</p>
         <span class="post-item__more">
-          {% case lang %}{% when 'en' %}Read more →{% when 'vi' %}Đọc thêm →{% when 'ja' %}続きを読む →{% when 'ko' %}더 읽기 →{% when 'tr' %}Devamını oku →{% when 'zh-HK' or 'zh-TW' %}閱讀全文 →{% when 'id' %}Baca selengkapnya →{% when 'ru' %}Читать далее →{% when 'de' %}Mehr lesen →{% when 'nl' %}Meer lezen →{% when 'fr' %}Lire la suite →{% else %}阅读全文 →{% endcase %}
+          {% case lang %}{% when 'zh' %}阅读全文 →{% when 'vi' %}Đọc thêm →{% when 'ja' %}続きを読む →{% when 'ko' %}더 읽기 →{% when 'tr' %}Devamını oku →{% when 'zh-HK' or 'zh-TW' %}閱讀全文 →{% when 'id' %}Baca selengkapnya →{% when 'ru' %}Читать далее →{% when 'de' %}Mehr lesen →{% when 'nl' %}Meer lezen →{% when 'fr' %}Lire la suite →{% else %}Read more →{% endcase %}
         </span>
       </div>
     </a>

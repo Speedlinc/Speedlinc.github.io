@@ -138,14 +138,14 @@ image: /assets/images/covers/chatgpt.svg   # 封面图，见下方可用列表
 
 | 语言 | 目录 | lang 值 | 文章 lang 标签 |
 |------|------|--------|--------------|
-| 中文（默认） | `/` | zh | zh |
-| 英文 | `/en/` | en | en |
+| 英文（默认） | `/` | en | en |
+| 中文 | `/zh/` | zh | zh |
 | 越南语 | `/vi/` | vi | vi |
 | 日语 | `/ja/` | ja | ja |
 | 韩语 | `/ko/` | ko | ko |
 | 土耳其语 | `/tr/` | tr | tr |
 
-每个语言目录下有 `index.html`，前置 matter 含 `lang: xx` 和该语言的介绍内容。
+每个语言目录下有 `index.html`，前置 matter 含 `lang: xx` 和该语言的介绍内容。根路径 `/` 现在原生渲染英文首页，`/zh/` 是新增的中文首页。中文文章的 permalink 全局默认加了 `/zh/` 前缀（见 `_config.yml` 的 `defaults`），非中文文章需在各自 front matter 显式声明 `permalink` 覆盖以保持扁平路径不变。旧的中文文章 URL（无 `/zh/` 前缀）通过 `jekyll-redirect-from` 插件的 `redirect_from` 生成跳转桩页面。
 
 ### 首页 Hero Banner（`_layouts/home.html`）
 

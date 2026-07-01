@@ -1,6 +1,8 @@
 ---
 title: "Netflix / YouTube 家庭流媒体解锁完全指南：4K 追剧不卡顿"
 date: 2026-07-01 10:00:00 +0800
+redirect_from:
+  - /2026/07/01/netflix-youtube-liu-mei-ti-jie-suo/
 categories: [流媒体]
 tags: [Netflix解锁, YouTube, Disney+, TonBo VPN, 流媒体加速]
 lang: zh

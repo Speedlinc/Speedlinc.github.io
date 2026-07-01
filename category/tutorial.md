@@ -1,9 +1,11 @@
 ---
 layout: category
-title: "使用教程 — TonBo VPN"
-description: "TonBo VPN 使用教程：ChatGPT 连不上、Claude 断线、Sora 出图失败等常见问题的解决方案。"
+title: "Tutorials — TonBo VPN"
+description: "TonBo VPN tutorials: fix ChatGPT loading issues, Claude disconnections, Netflix geo-blocks and more."
 permalink: /category/tutorial/
-lang: zh
-category: 使用教程
-keywords: "TonBo VPN 教程,ChatGPT 加速教程,Claude 使用教程,AI VPN 教程"
+lang: en
+category: Tutorial
+keywords: "TonBo VPN tutorial,ChatGPT VPN,Claude VPN,Netflix VPN,streaming VPN"
+redirect_from:
+  - /en/category/tutorial/
 ---

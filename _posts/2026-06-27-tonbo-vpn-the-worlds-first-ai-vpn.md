@@ -1,6 +1,8 @@
 ---
 title: "TonBo VPN 是什么？支持 AI、影视、办公的全球网络加速器"
 date: 2026-06-27 10:00:00 +0800
+redirect_from:
+  - /2026/06/27/tonbo-vpn-the-worlds-first-ai-vpn/
 categories: [产品介绍]
 tags: [TonBo VPN, AI VPN, ChatGPT 加速, Claude 加速, 原生纯净 IP, AI 智能路由]
 excerpt: "面向大众 AI 用户的全球网络加速器：原生纯净 IP 告别验证码，IEPL 专线把延迟压到 45ms，AI 智能路由一键择优。每日 200M 免费，邀请好友双方各得 $1。"

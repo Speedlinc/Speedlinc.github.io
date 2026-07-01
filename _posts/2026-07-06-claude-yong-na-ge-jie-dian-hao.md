@@ -1,6 +1,8 @@
 ---
 title: "Claude 用哪个节点最稳？香港、台湾、日本节点全测试"
 date: 2026-07-06 10:00:00 +0800
+redirect_from:
+  - /2026/07/06/claude-yong-na-ge-jie-dian-hao/
 categories: [使用教程]
 tags: [Claude, 节点选择, 香港节点, 台湾节点, TonBo VPN, Claude加速器]
 lang: zh
