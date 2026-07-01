@@ -3,8 +3,6 @@ layout: page
 title: 关于
 lang: zh
 permalink: /zh/about/
-redirect_from:
-  - /about/
 ---
 
 本站是 **TonBo VPN（通博VPN）** 的官方博客，分享 AI 加速、跨境办公、流媒体解锁与稳定访问海外平台的实用经验。
