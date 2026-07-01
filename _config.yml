@@ -19,7 +19,6 @@ social:
     - https://www.tonbovpn.com
 
 timezone: Asia/Shanghai
-future: true
 permalink: /:year/:month/:day/:title/
 
 plugins:
