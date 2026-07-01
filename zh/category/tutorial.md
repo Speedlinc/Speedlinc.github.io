@@ -6,6 +6,4 @@ permalink: /zh/category/tutorial/
 lang: zh
 category: 使用教程
 keywords: "TonBo VPN 教程,ChatGPT 加速教程,Claude 使用教程,AI VPN 教程"
-redirect_from:
-  - /category/tutorial/
 ---
