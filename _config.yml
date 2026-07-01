@@ -31,6 +31,7 @@ exclude:
   - Gemfile.lock
   - vendor
   - README.md
+  - CLAUDE.md
 
 defaults:
   - scope:
