@@ -7,7 +7,7 @@ categories: [使用教程]
 tags: [独享IP, ChatGPT, AI加速, TonBo VPN, 稳定连接]
 excerpt: "共享节点出口 IP 被大量用户占用，访问 ChatGPT、Claude 时容易出现连接不稳、频繁验证等问题。独享 IP 让你独占一个纯净出口，访问体验稳定得多。"
 description: "解析为什么访问 ChatGPT、Claude 等 AI 平台需要独享 IP：共享出口的连接质量问题与独享 IP 的稳定性优势。"
-image: /assets/images/covers/dedicated-ip.svg
+image: /assets/images/covers/ai-zhang-hao-wei-he-xu-yao-du-xiang-ip.webp
 lang: zh
 ---
 

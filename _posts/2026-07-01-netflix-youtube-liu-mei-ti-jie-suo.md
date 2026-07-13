@@ -8,7 +8,7 @@ tags: [Netflix解锁, YouTube, Disney+, TonBo VPN, 流媒体加速]
 lang: zh
 excerpt: "家庭影院不卡顿、孩子安心看Disney+、4K画质不降级——一篇搞定Netflix、YouTube、Disney+全平台解锁。"
 description: "全面解析如何用TonBo VPN解锁Netflix、YouTube 4K、Disney+等主流流媒体，家庭用户亲测可用，IEPL专线稳定加速，无缓冲追剧攻略。"
-image: /assets/images/covers/streaming.svg
+image: /assets/images/covers/netflix-youtube-liu-mei-ti-jie-suo.webp
 ---
 
 周末窝在沙发上想刷一集 Netflix 新剧，画面转圈、质量被压成 480p，或者干脆提示"此内容在您所在的地区不可用"——这种扫兴的经历，相信很多家庭都不陌生。

@@ -8,7 +8,7 @@ tags: [Disney+, HBO Max, 流媒体解锁, TonBo VPN, 海外观看]
 lang: zh
 excerpt: "Disney+ 提示地区不可用，HBO Max 干脆打不开？一篇讲清楚两大平台的地区限制原理，以及如何用 TonBo VPN 稳定观看 4K 内容。"
 description: "Disney+ 和 HBO Max 海外观看完全指南：地区限制原因、常见报错解析，以及如何通过 IEPL 专线稳定解锁 4K 高清内容。"
-image: /assets/images/covers/streaming.svg
+image: /assets/images/covers/disneyplus-hbomax-hai-wai-jie-suo.webp
 ---
 
 想看 Disney+ 独家的漫威新剧，或者 HBO Max 的年度大热剧集，结果打开 App 却提示"该内容在您所在地区不可用"，甚至连登录页面都加载不出来——这是海外用户最常遇到的两个流媒体平台的通病。

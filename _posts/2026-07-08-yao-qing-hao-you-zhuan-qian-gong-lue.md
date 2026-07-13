@@ -8,7 +8,7 @@ tags: [邀请返利, TonBo VPN邀请码, 返现, 免费流量, 会员权益]
 lang: zh
 excerpt: "TonBo VPN 的邀请返利机制怎么用最划算？一篇讲清楚邀请奖励规则、20% 消费返现的计算方式，以及如何靠邀请把订阅费用摊薄。"
 description: "TonBo VPN 邀请返利机制详解：邀请好友双方各得 $1，好友消费享 20% 返现，附具体操作步骤和收益计算示例。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/yao-qing-hao-you-zhuan-qian-gong-lue.webp
 ---
 
 很多 TonBo VPN 用户已经在用每日 200MB 的免费额度，但可能还不知道，账号里其实藏着一个更划算的机制——**邀请返利**。这篇文章把规则讲清楚，教你如何用它把自己的订阅成本降到最低，甚至靠邀请覆盖全部费用。

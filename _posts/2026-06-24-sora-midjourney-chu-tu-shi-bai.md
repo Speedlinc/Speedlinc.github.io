@@ -7,7 +7,7 @@ categories: [使用教程]
 tags: [Midjourney 加速, Sora 加速, AI 绘画, AI 智能路由, 独享 IP, TonBo VPN]
 excerpt: "Midjourney 排队卡死、Sora 生成失败、上传图片传不上？讲清原因，并用 AI 智能路由 + 原生纯净 IP 稳定访问 AI 绘画平台。每日 200M 免费，免注册先试。"
 description: "Midjourney 排队卡死、Sora 生成失败、上传图片传不上？本文讲清原因，并用 AI 智能路由 + 原生纯净 IP 稳定访问 AI 绘画平台。每日 200M 免费，免注册先试。"
-image: /assets/images/covers/sora-midjourney.svg
+image: /assets/images/covers/sora-midjourney-chu-tu-shi-bai.webp
 lang: zh
 faq:
   - q: "每天免费 200M 能出几张 AI 图？"

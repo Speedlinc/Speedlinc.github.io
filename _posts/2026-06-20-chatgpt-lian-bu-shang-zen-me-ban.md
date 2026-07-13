@@ -7,7 +7,7 @@ categories: [使用教程]
 tags: [ChatGPT 连不上, GPT 加速, AI 智能路由, 独享 IP, TonBo VPN]
 excerpt: "ChatGPT 一直转圈、登录报错、对话中断？通俗讲清原因，并用 AI 智能路由 + 原生纯净 IP 稳定连上 GPT。每日 200M 免费，免注册先试。"
 description: "ChatGPT 一直转圈、登录报错、对话中断？本文用通俗步骤讲清原因，并用 AI 智能路由 + 原生纯净 IP 稳定连上 GPT。每日 200M 免费流量，免注册先试。"
-image: /assets/images/covers/chatgpt.svg
+image: /assets/images/covers/chatgpt-lian-bu-shang-zen-me-ban.webp
 lang: zh
 faq:
   - q: "每天免费 200M 流量够用 ChatGPT 吗？"

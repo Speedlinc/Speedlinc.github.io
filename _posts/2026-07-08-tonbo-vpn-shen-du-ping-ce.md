@@ -8,7 +8,7 @@ tags: [TonBo VPN评测, VPN对比, IEPL专线, 独享IP, VPN选购]
 lang: zh
 excerpt: "TonBo VPN 到底好不好用？从连接稳定性、AI 工具兼容性、流媒体解锁、价格四个维度做一次不留情面的深度评测。"
 description: "TonBo VPN 深度评测：IEPL 专线、AI 智能路由、独享 IP 等核心功能实测，对比普通 VPN 的优劣势，帮你判断是否值得购买。"
-image: /assets/images/covers/dedicated-ip.svg
+image: /assets/images/covers/tonbo-vpn-shen-du-ping-ce.webp
 ---
 
 市面上的 VPN / 加速器产品五花八门，广告词个个都说自己"全球最快"。这篇文章不谈营销话术，直接从连接稳定性、AI 工具兼容性、流媒体解锁、价格四个维度，对 TonBo VPN 做一次真实评测。

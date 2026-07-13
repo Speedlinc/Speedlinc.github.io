@@ -7,7 +7,7 @@ categories: [产品介绍]
 tags: [TonBo VPN, AI VPN, ChatGPT 加速, Claude 加速, 原生纯净 IP, AI 智能路由]
 excerpt: "面向大众 AI 用户的全球网络加速器：原生纯净 IP 告别验证码，IEPL 专线把延迟压到 45ms，AI 智能路由一键择优。每日 200M 免费，邀请好友双方各得 $1。"
 description: "TonBo VPN（通博VPN）是面向大众 AI 用户的全球网络加速器。用原生纯净 IP 告别验证码，用 IEPL 专线把延迟压到 45ms，用 AI 智能路由一键择优。每日 200M 免费流量，邀请好友双方各得 $1。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/tonbo-vpn-the-worlds-first-ai-vpn.webp
 lang: zh
 faq:
   - q: "TonBo VPN 每日 200M 免费流量够用吗？需要绑卡吗？"

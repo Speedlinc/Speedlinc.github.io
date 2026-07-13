@@ -8,7 +8,7 @@ tags: [手机VPN, iOS VPN, Android VPN, TonBo VPN, 移动端]
 lang: zh
 excerpt: "出门连公共 WiFi 不安全？旅游时手机追剧卡顿？一篇搞定 iPhone 和 Android 上的 TonBo VPN 安装与使用全流程。"
 description: "TonBo VPN 手机端完全攻略：iPhone iOS安装配置、Android下载使用、节点切换技巧，覆盖公共WiFi安全、旅行追剧、手机ChatGPT等真实使用场景。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/iphone-android-vpn-ru-men.webp
 ---
 
 手机早已是我们日常连网的主力设备。在咖啡馆蹭 WiFi 时、出差住酒店时、海外旅行时，手机连接的往往是陌生的公共网络——这些场景下，网络稳定性和访问质量都会大打折扣。

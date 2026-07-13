@@ -8,7 +8,7 @@ tags: [Claude, 节点选择, 香港节点, 台湾节点, TonBo VPN, Claude加速
 lang: zh
 excerpt: "很多人开着加速器挂日本节点，Claude 还是登不上或者频繁掉线。香港、台湾、日本、美国节点各有什么区别？这篇文章帮你选出访问 Claude 最稳的节点组合。"
 description: "Claude 连不上或频繁掉线？本文对比香港、台湾、日本、美国节点访问 Claude 的稳定性，帮你选出最优节点方案。"
-image: /assets/images/covers/chatgpt.svg
+image: /assets/images/covers/claude-yong-na-ge-jie-dian-hao.webp
 ---
 
 Claude 在节点选择上比 ChatGPT 更挑剔——很多人挂着日本节点能顺畅用 GPT，切到 Claude 却一直报连接错误。这不是玄学，而是有规律可循的。
