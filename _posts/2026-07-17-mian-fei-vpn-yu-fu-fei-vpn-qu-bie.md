@@ -8,7 +8,7 @@ tags: [免费VPN, 付费VPN, VPN选购, TonBo VPN]
 lang: zh
 excerpt: "应用商店里一搜 VPN，跳出来一堆「完全免费」的选项。它们真的免费吗？免费背后的商业模式，和付费产品比到底差在哪？"
 description: "免费 VPN 和付费 VPN 有什么区别？从盈利模式、速度、隐私、稳定性四个维度拆解免费 VPN 的真实成本，帮你理性选择网络加速器。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/mian-fei-vpn-yu-fu-fei-vpn-qu-bie.webp
 ---
 
 应用商店里搜"VPN"，跳出来的结果一大半都标着"免费"。运营一套全球服务器网络成本不低，这些产品完全不收费，钱从哪来？这篇文章拆解免费和付费 VPN 背后的商业逻辑，帮你理性判断该不该用。

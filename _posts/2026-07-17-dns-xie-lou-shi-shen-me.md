@@ -8,7 +8,7 @@ tags: [DNS泄漏, 网络安全, VPN科普, TonBo VPN]
 lang: zh
 excerpt: "明明开着 VPN，为什么访问的网站还是能被本地网络看出来？问题很可能出在 DNS 泄漏——一个容易被忽视但很关键的细节。"
 description: "DNS 泄漏科普：讲清楚 DNS 解析的原理、为什么开着 VPN 依然可能泄漏访问记录，以及如何自查和防范 DNS 泄漏。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/dns-xie-lou-shi-shen-me.webp
 ---
 
 开着 VPN 却发现自己访问的网站类型还是被本地网络"猜"了出来？这种情况的常见原因之一，就是 DNS 泄漏（DNS Leak）。这是一个很容易被忽视，但对隐私影响不小的细节。

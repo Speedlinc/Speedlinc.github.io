@@ -8,7 +8,7 @@ tags: [IEPL专线, VPN科普, 专线加速, TonBo VPN]
 lang: zh
 excerpt: "很多加速器宣传里都提到「IEPL 专线」，但这四个字母到底代表什么？它和普通节点相比，为什么价格更贵、速度却更稳？"
 description: "IEPL 国际专用线路科普：解释 IEPL 与公共互联网、普通 VPN 节点的本质区别，以及它如何让 ChatGPT、Netflix 等海外服务连接更稳定。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/iepl-guo-ji-zhuan-xian-shi-shen-me.webp
 ---
 
 挑选网络加速器时，你可能见过「IEPL 专线」「BGP 中转」「公网节点」这类术语，商家往往把 IEPL 作为高端套餐的卖点，价格也明显更贵。它到底贵在哪里，是不是智商税？这篇文章用最直白的方式讲清楚。

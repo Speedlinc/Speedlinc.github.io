@@ -8,7 +8,7 @@ tags: [VPN隐私, 无日志政策, 数据安全, TonBo VPN]
 lang: zh
 excerpt: "「无日志」是几乎每家 VPN 都会打的宣传语，但具体是不记录什么？连接时间、IP、访问的网站，到底哪些会被留存？"
 description: "VPN 日志政策科普：讲清楚连接日志与使用日志的区别，无日志政策具体承诺了什么，以及如何判断一家 VPN 服务商是否真的可信。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/vpn-hui-ji-lu-shang-wang-ji-lu-ma.webp
 ---
 
 几乎每家 VPN 服务商的官网首页都会挂一句"无日志政策"（No-Log Policy），但很少有人真正搞清楚这句话具体承诺了什么。是完全不记录任何数据，还是只是不记录你访问过哪些网站？这中间的差别很大。

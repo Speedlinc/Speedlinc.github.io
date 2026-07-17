@@ -8,7 +8,7 @@ tags: [VPN协议, WireGuard, OpenVPN, IKEv2, TonBo VPN]
 lang: zh
 excerpt: "打开 VPN App 的设置页，经常能看到「协议」选项，但大多数人从没点开过。协议到底决定了什么？OpenVPN、WireGuard、IKEv2 该怎么选？"
 description: "VPN 协议科普：详解 OpenVPN、WireGuard、IKEv2 三大主流协议的速度、加密强度与适用场景，帮你选对协议，让 ChatGPT、Netflix 连接更稳定。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/vpn-xie-yi-openvpn-wireguard-ikev2-zen-me-xuan.webp
 ---
 
 打开任何一款 VPN App 的设置页，往里翻两层，通常都能看到一个叫「协议」（Protocol）的选项，里面列着 OpenVPN、WireGuard、IKEv2 之类的名字。大多数人直接跳过，用默认设置，但如果你曾经遇到过连接慢、频繁掉线、或者换个网络就要重连的问题，答案很可能就藏在这个设置里。
