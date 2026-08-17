@@ -36,7 +36,16 @@ jobs:
             month=$(echo "$name" | cut -d- -f2)
             day=$(echo "$name" | cut -d- -f3)
             slug=$(echo "$name" | cut -d- -f4-)
-            url="$BASE/$year/$month/$day/$slug/"
+            # URL 必须按 permalink 推导：zh 文章 front matter 没有 permalink，走
+            # _config.yml defaults 的 /zh/:year/:month/:day/:title/；小语种文章在
+            # front matter 里显式写了自己的 permalink。直接用 /年/月/日/slug/ 会得到 404。
+            pl=$(sed -n 's/^permalink:[[:space:]]*//p' "$file" | head -1)
+            [ -z "$pl" ] && pl="/zh/:year/:month/:day/:title/"
+            pl="${pl//:year/$year}"
+            pl="${pl//:month/$month}"
+            pl="${pl//:day/$day}"
+            pl="${pl//:title/$slug}"
+            url="$BASE$pl"
             URLS+=("\"$url\"")
           done <<< "${{ steps.changed.outputs.files }}"
 
