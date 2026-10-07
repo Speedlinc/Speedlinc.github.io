@@ -6,7 +6,7 @@ tags: ["分流", "分应用代理", "VPN科普", "TonBo VPN", "pillar:网络基�
 lang: zh
 excerpt: "所有流量都挤进同一条加速通道，网银变慢、局域网打印机找不到——分流就是为了解决这些别扭。"
 description: "VPN 分流是什么？讲清分应用代理的原理、哪些应用适合走加速、哪些适合直连，以及分流怎么设置的通用思路。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/fen-liu-shi-shen-me-ying-yong-zen-me-fen.webp
 ---
 
 开着加速软件的时候，你有没有碰到过这些小别扭：本地银行 App 反而变慢，公司内网的文件服务器连不上，家里的打印机、投屏设备突然找不到了；或者明明只想让 AI 工具走加速，结果连下载软件更新、看本地视频网站的流量也都绕了一大圈。

@@ -6,7 +6,7 @@ tags: [住宅IP, 机房IP, 原生IP, TonBo VPN, pillar:网络基础]
 lang: zh
 excerpt: "同一个网站，换了一个出口地址，加载速度和验证频率都不一样。差别往往出在 IP 的类型上。"
 description: "住宅IP、机房IP、原生IP 区别科普：IP 的来源与归属如何影响网站对访问的判断，以及不同使用场景下该怎么选节点类型。"
-image: /assets/images/covers/dedicated-ip.svg
+image: /assets/images/covers/zhu-zhai-ip-yu-ji-fang-ip-qu-bie.webp
 ---
 
 有这样一个现象：同一个网站，同一个人，换了一个出口地址之后，页面时而秒开，时而反复要求验证；某个视频平台在这个节点上流畅播放，换到另一个节点就提示"当前网络异常"。很多人以为是节点"好坏"的问题，其实更常见的原因是——这两个 IP 的"出身"不同。

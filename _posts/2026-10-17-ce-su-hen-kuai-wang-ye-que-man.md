@@ -6,7 +6,7 @@ tags: ["测速", "带宽", "延迟", "TonBo VPN", "pillar:网络基础"]
 lang: zh
 excerpt: "宽带标称很大、测速结果也漂亮，打开网页却要等好几秒——问题常常不在带宽。"
 description: "测速很快网页慢是怎么回事？讲清带宽和延迟的区别、DNS 与握手耗时，并给出网速慢排查的几个实用步骤。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/ce-su-hen-kuai-wang-ye-que-man.webp
 ---
 
 不少人都有过这样的体验：宽带套餐明明升级了，手机测速 App 跑出一个很好看的数字，可一打开某个网页，转圈转了好几秒才出内容，或者视频会议里别人说完话你要隔一会儿才听到。于是怀疑"是不是测速不准"。其实测速没骗你，只是它测量的东西，和你日常感觉到的"快慢"，本来就不是同一个维度。

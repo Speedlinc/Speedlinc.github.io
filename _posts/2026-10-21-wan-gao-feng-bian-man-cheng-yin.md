@@ -6,7 +6,7 @@ tags: [晚高峰, 网络拥堵, 网速优化, TonBo VPN, pillar:网络基础]
 lang: zh
 excerpt: "白天一切正常，晚上八点一过视频转圈、网页半天打不开。晚高峰的慢，其实有迹可循。"
 description: "解释晚高峰网速慢、网络拥堵的常见成因，并给出高峰期怎么保持稳定的实用做法：错峰、换线路、选择优质专线节点。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/wan-gao-feng-bian-man-cheng-yin.webp
 ---
 
 下班回到家，打开电脑准备查点资料、顺手跟 AI 助手聊几句，结果页面转了半分钟还没出来。换个时间，比如上午十点，同一个网站又飞快。这种"只在晚上慢"的体验，几乎每个人都遇到过，它有一个很贴切的名字：晚高峰。

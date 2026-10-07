@@ -6,7 +6,7 @@ tags: [Claude, Claude 稳定访问, 对话中断, 排查清单, TonBo VPN, pilla
 lang: zh
 excerpt: "页面一直转圈、回答写到一半停住、发出去的消息没有回音。先分清是服务端还是网络，再一项项排除。"
 description: "Claude 连不上、响应慢、对话中断时怎么排查？一份按顺序执行的 Claude 稳定访问清单：先看状态页，再查浏览器、本地网络与出口线路。"
-image: /assets/images/covers/claude.svg
+image: /assets/images/covers/claude-wang-ye-ban-zhuan-quan-wen-ding-fang-wen.webp
 ---
 
 写到一半的长文档，让 Claude 帮忙梳理结构。输入框里按下回车，页面转了一会儿开始输出，写到第三段忽然不动了，光标停在半句话后面。刷新一下，对话还在，但最后那段回答没了。

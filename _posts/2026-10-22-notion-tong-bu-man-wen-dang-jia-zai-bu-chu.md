@@ -6,7 +6,7 @@ tags: [Notion, 文档协作, 同步慢, TonBo VPN, pillar:协作办公]
 lang: zh
 excerpt: "页面一直转圈、刚写的内容在另一台设备上迟迟不出现——Notion 这类实时协作工具，对网络的要求比想象中高。"
 description: "Notion 同步慢、页面加载不出来怎么办？从原因、本地排查到线路优化，整理一份文档协作工具的稳定使用思路，含 Notion 加速建议。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/notion-tong-bu-man-wen-dang-jia-zai-bu-chu.webp
 ---
 
 周五下午要交付一份项目文档，打开 Notion，左侧目录能出来，点进页面却只剩一个转圈的图标；好不容易进去了，刚输入的几段话，手机上半天不见踪影，右上角还时不时提示"正在同步"。这类场景对跨时区团队、海外远程协作的人来说尤其常见。

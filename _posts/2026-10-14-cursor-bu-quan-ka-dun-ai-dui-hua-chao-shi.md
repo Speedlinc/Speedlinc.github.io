@@ -6,7 +6,7 @@ tags: [Cursor, Cursor 加速, 补全卡顿, 开发者工具, TonBo VPN, pillar:a
 lang: zh
 excerpt: "光标停在那里，补全迟迟不出来；侧边栏的 AI 对话转了半天报超时。问题未必在编辑器本身。"
 description: "Cursor 卡顿、补全慢、AI 对话超时怎么排查？从编辑器自身、系统代理、DNS 到出口线路，一套适合开发者的 Cursor 加速排查思路。"
-image: /assets/images/covers/chatgpt.svg
+image: /assets/images/covers/cursor-bu-quan-ka-dun-ai-dui-hua-chao-shi.webp
 ---
 
 敲到一半，等着补全弹出来，光标却像被按住了；侧边栏里让 AI 改一段函数，转了二三十秒，最后提示请求超时。重启编辑器好一点，十分钟后老样子。

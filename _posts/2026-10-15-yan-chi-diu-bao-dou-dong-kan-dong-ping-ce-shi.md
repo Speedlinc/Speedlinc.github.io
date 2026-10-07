@@ -6,7 +6,7 @@ tags: [延迟, 丢包, 抖动, ping 测试, TonBo VPN, pillar:网络基础]
 lang: zh
 excerpt: "ping 一下，屏幕上刷出一排数字。延迟、丢包、抖动各自代表什么，哪一个出了问题，一次讲清。"
 description: "延迟 丢包 抖动分别是什么？ping 测试怎么看，网络延迟高怎么办？用通俗的方式拆解 ping 输出，并给出对应的排查方向。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/yan-chi-diu-bao-dou-dong-kan-dong-ping-ce-shi.webp
 ---
 
 网络出问题时，技术朋友常会甩来一句：先 ping 一下。你照做了，终端里刷出一排数字，看着像在说话，却不知道它在说什么。是 30 好还是 80 好？有一行写着 loss，要不要紧？

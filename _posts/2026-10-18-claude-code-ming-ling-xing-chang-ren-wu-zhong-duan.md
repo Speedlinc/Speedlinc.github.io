@@ -6,7 +6,7 @@ tags: ["Claude Code", "命令行", "长任务", "TonBo VPN", "pillar:ai-稳定�
 lang: zh
 excerpt: "让 agent 去重构一个模块，人去吃饭，回来发现终端停在半路。长任务的中断，多半出在连接而不是模型。"
 description: "Claude Code 断线、超时怎么办？讲清命令行程序与系统代理的关系、agent 长任务中断的常见原因，以及可操作的排查与稳定连接办法。"
-image: /assets/images/covers/claude.svg
+image: /assets/images/covers/claude-code-ming-ling-xing-chang-ren-wu-zhong-duan.webp
 ---
 
 下班前给 Claude Code 布置了一个较大的重构任务，想着让它在终端里自己跑。第二天回来，终端停在某一步，提示连接出错或请求超时，前面的工作进度还在，后面却没了下文。这种"agent 长任务中断"的体验，比普通网页断一下要折磨人得多，因为它一次会话里要发出几十甚至上百次请求，任何一次失败都可能让整条链路停下。

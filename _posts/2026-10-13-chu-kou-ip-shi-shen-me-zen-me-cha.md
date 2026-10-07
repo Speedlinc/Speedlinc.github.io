@@ -6,7 +6,7 @@ tags: [出口IP, IP 查询, 访问速度, VPN科普, TonBo VPN, pillar:网络基
 lang: zh
 excerpt: "同样一台电脑，换了出口 IP，网站的响应速度和表现都可能不一样。出口 IP 到底是什么？"
 description: "出口IP 是什么、怎么查出口IP，以及出口IP 与访问速度的关系。从概念到自查方法，一篇讲清网络出口对访问体验的影响。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/chu-kou-ip-shi-shen-me-zen-me-cha.webp
 ---
 
 很多人听到"IP"，想到的是一串数字。但实际用网时，真正和访问体验挂钩的，不是你电脑上看到的那个地址，而是网站眼里的你来自哪里。这个"网站眼里的地址"，就是出口 IP。

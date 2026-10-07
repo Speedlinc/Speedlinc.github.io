@@ -6,7 +6,7 @@ tags: [Slack, 跨境协作, 文件上传, TonBo VPN, pillar:协作办公]
 lang: zh
 excerpt: "海外同事的消息总是慢半拍，截图和文档传到一半就失败。Slack 的这类问题，多数出在连接路径而不是软件本身。"
 description: "Slack 加速与稳定使用指南：Slack 消息延迟、Slack 文件上传失败的常见原因，按顺序给出可操作的排查步骤和线路优化办法。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/slack-xiao-xi-yan-chi-wen-jian-shang-chuan-shi-bai.webp
 ---
 
 周一早会前，你在 Slack 频道里发了一句"新版本已经提测"，海外同事却是几十秒之后才回复，说"刚刚才看到"。更让人着急的是，随后想把一份 30MB 的设计稿拖进对话框，进度条走到一半就红了，提示上传失败。重试两次，结果一样。

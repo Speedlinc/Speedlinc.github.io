@@ -6,7 +6,7 @@ tags: ["Midjourney", "Discord", "出图慢", "TonBo VPN", "pillar:ai-稳定访�
 lang: zh
 excerpt: "进度条停在某个百分比，或者图片区域只剩一个灰框——先分清是排队慢，还是图片根本没加载出来。"
 description: "Midjourney 出图慢、Discord 图片加载失败怎么办？区分队列等待与网络问题，给出 Midjourney 加速与预览图加载的排查步骤。"
-image: /assets/images/covers/sora-midjourney.svg
+image: /assets/images/covers/midjourney-discord-chu-tu-dui-lie-ka-zhu.webp
 ---
 
 在 Discord 频道里提交了一条 Midjourney 指令，机器人回应了，进度也走到了一半，可预览图要么迟迟不出现，要么变成一个转圈的灰色方块；等了好几分钟，终于显示"已完成"，点开却加载不出图片。这时候很容易把"出图慢"和"图片显示不出来"混为一谈，但这是两件不同的事，处理方法也不一样。

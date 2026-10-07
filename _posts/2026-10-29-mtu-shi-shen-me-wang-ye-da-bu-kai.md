@@ -6,7 +6,7 @@ tags: [MTU, 网络基础, 网页打不开, TonBo VPN, pillar:网络基础]
 lang: zh
 excerpt: "有的网页能打开首页，点进去却一直转圈；聊天软件能发文字，发不出图片。这种怪现象，可能和 MTU 有关。"
 description: "MTU 是什么、MTU 设置怎么查怎么调？讲清部分网页打不开、只能收发小数据的原因，附 Windows、macOS 的实用检测命令。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/mtu-shi-shen-me-wang-ye-da-bu-kai.webp
 ---
 
 有一类故障让人格外摸不着头脑：同一个网站，首页能打开，点进内容页就一直转圈；聊天软件里文字消息正常，一发图片就失败；网速测试结果也不差，偏偏某几个页面怎么也加载不出来。重启路由器、换浏览器都没用。

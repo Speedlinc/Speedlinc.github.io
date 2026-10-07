@@ -6,7 +6,7 @@ tags: ["Gemini", "AI Studio", "稳定访问", "TonBo VPN", "pillar:ai-稳定访�
 lang: zh
 excerpt: "页面能打开却一直转圈，或者提示词发出去很久没有回应？先判断卡在哪一层，再决定怎么处理。"
 description: "Gemini 连不上、AI Studio 超时怎么办？按症状拆解网页、登录、生成三个环节，给出 Gemini 加速与稳定访问的排查顺序。"
-image: /assets/images/covers/chatgpt.svg
+image: /assets/images/covers/gemini-ai-studio-qing-qiu-chao-shi.webp
 ---
 
 晚上赶一份资料，打开 Gemini 对话页，输入框能用，提示词也发出去了，可回答迟迟不出现，最后只剩一句"出了点问题"。换到 AI Studio 想调一下参数，页面干脆停在白屏。很多人这时的第一反应是"服务挂了"，但多数情况下，服务本身没问题，卡住的是你和它之间的某一段链路。

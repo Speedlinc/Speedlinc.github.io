@@ -6,7 +6,7 @@ tags: [智能路由, 节点选择, 路由原理, TonBo VPN, pillar:网络基础]
 lang: zh
 excerpt: "连着同一个节点，打开 A 网站飞快，打开 B 网站却慢吞吞。差别不在节点，而在节点之后的那段路。"
 description: "AI 智能路由是什么？讲清智能路由原理、节点选择与路由的关系，解释为什么同一个节点访问不同网站速度差异明显。"
-image: /assets/images/covers/chatgpt.svg
+image: /assets/images/covers/ai-zhi-neng-lu-you-shi-shen-me.webp
 ---
 
 很多人有过这样的体验：连着同一个节点，测速分数不低，打开某个视频网站很顺，换成一个 AI 工具的网页却迟迟加载不出来。于是第一反应是"这个节点不行"，换一个节点，情况又反过来。

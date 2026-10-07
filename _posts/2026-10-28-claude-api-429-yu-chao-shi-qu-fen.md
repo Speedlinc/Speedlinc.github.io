@@ -6,7 +6,7 @@ tags: [Claude API, API限流, 超时排查, TonBo VPN, pillar:ai-稳定访问]
 lang: zh
 excerpt: "脚本跑着跑着报错了，日志里一会儿是 429，一会儿是超时。两种错误的处理方向完全相反。"
 description: "Claude API 429 与 Claude API 超时有什么区别？教你从响应、延迟和重试行为区分 API 限流与网络问题，并给出对应处理办法。"
-image: /assets/images/covers/claude.svg
+image: /assets/images/covers/claude-api-429-yu-chao-shi-qu-fen.webp
 ---
 
 批量处理文档的脚本跑到一半，日志里蹦出一串错误：前几条是 429，后面几条变成了 timeout。很多人会把它们笼统归为"API 不稳定"，然后给代码加一个"失败就重试三次"。结果 429 越重试越多，超时也没有好转。

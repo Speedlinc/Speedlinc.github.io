@@ -6,7 +6,7 @@ tags: [ChatGPT, network error, ChatGPT 加速, 回答中断, TonBo VPN, pillar:a
 lang: zh
 excerpt: "红色的 network error 提示，往往出现在回答写得很长、正需要它写完的那一刻。弄清它是怎么来的，处理起来就有方向。"
 description: "ChatGPT 提示 network error、回答中断怎么办？解释报错的常见成因，给出从刷新、换网络到 ChatGPT 加速的分层处理办法。"
-image: /assets/images/covers/chatgpt.svg
+image: /assets/images/covers/chatgpt-network-error-hui-da-zhong-duan.webp
 ---
 
 让 ChatGPT 写一份几千字的方案，进度走到一大半，回答区域底部弹出一行红字：network error。刷新后，已经写好的内容有一部分还在，另一部分不见了。更气人的是，同一个问题再问一次，有时顺利，有时又在差不多的位置断掉。

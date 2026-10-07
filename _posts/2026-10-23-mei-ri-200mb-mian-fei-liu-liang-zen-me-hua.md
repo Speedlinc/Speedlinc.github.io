@@ -6,7 +6,7 @@ tags: [免费流量, 200MB, 流量怎么省, TonBo VPN, pillar:产品使用]
 lang: zh
 excerpt: "200MB 听起来不多，但如果花在对的地方，AI 对话、查资料、看文档都够用。关键是知道流量花在哪。"
 description: "VPN 免费流量每日 200MB 够用吗？按 AI 对话、网页浏览、图片视频拆解流量消耗的量级，并给出流量怎么省的实用做法。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/mei-ri-200mb-mian-fei-liu-liang-zen-me-hua.webp
 ---
 
 很多人第一次听到"每日 200MB 免费流量"，反应是：这点流量够干什么？一部高清电影动辄几个 GB，200MB 看上去几乎什么都做不了。

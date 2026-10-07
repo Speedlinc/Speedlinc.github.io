@@ -6,7 +6,7 @@ tags: [OpenAI API, API 超时, 请求失败排查, TonBo VPN, pillar:开发者�
 lang: zh
 excerpt: "脚本昨天还跑得好好的，今天调用 API 突然大面积超时。把问题拆成 DNS、出口、重试三层，排查会快很多。"
 description: "OpenAI API 超时、API 请求失败排查思路：按 DNS 解析、网络出口、重试与超时设置三层逐步定位，附 nslookup、curl -v 等标准命令，解决调用 API 连接不稳。"
-image: /assets/images/covers/chatgpt.svg
+image: /assets/images/covers/openai-api-qing-qiu-chao-shi-pai-cha.webp
 ---
 
 凌晨三点，一个批量处理文本的脚本跑到一半，日志里开始成片地出现 `timeout`、`Connection reset`、`Read timed out`。代码没改，密钥没变，昨天还一切正常。这时候容易走偏的做法，是对着代码一行行怀疑自己。
