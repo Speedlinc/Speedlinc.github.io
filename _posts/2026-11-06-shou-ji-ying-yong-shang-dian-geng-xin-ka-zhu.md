@@ -6,7 +6,7 @@ tags: [应用商店, App 更新, 手机下载慢, TonBo VPN, pillar:网络基础
 lang: zh
 excerpt: "应用更新停在“等待中”、进度条纹丝不动，别急着怀疑手机，先分清是存储、网络还是线路的问题。"
 description: "应用商店下载慢、App 更新卡住怎么办？从存储空间、Wi-Fi 与蜂窝网络、DNS 到节点选择，一步步排查手机下载慢的原因。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/shou-ji-ying-yong-shang-dian-geng-xin-ka-zhu.webp
 ---
 
 手机提醒有十几个应用待更新，点了“全部更新”，结果几个应用一直停在“等待中”，另外几个进度条走到一半就不动了。过了半小时再看，还是老样子。

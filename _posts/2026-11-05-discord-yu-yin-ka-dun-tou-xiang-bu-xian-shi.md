@@ -6,7 +6,7 @@ tags: [Discord, 语音卡顿, 图片加载, TonBo VPN, pillar:协作办公]
 lang: zh
 excerpt: "文字消息能发，语音却断断续续，头像是灰的、图片转圈加载不出来——这几种症状其实对应不同的网络环节。"
 description: "Discord 语音卡顿、头像和图片加载失败的原因拆解与排查步骤，说明语音与图片走的链路差异，以及什么时候该用 TonBo VPN 做 Discord 加速。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/discord-yu-yin-ka-dun-tou-xiang-bu-xian-shi.webp
 ---
 
 周末晚上和朋友开黑，或者在社区频道里听分享，常见的状况是这样的：文字消息发得出去，语音里对方的声音一卡一卡像机器人，头像全是灰色默认图，别人发的截图一直转圈。重启客户端没用，换个频道也没用，于是怀疑是不是软件坏了。

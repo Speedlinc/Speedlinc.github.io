@@ -6,7 +6,7 @@ tags: [Google Docs, Google Drive, 文档同步, TonBo VPN, pillar:协作办公]
 lang: zh
 excerpt: "你明明改完了，同事那边还是旧内容；Drive 的同步图标转了一下午——问题常常出在你与服务器之间的链路。"
 description: "Google Docs 打不开、Drive 同步慢、协作文档同步失败的原因与排查步骤，附 nslookup、curl 等命令，以及何时用 TonBo VPN 稳定连接。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/google-docs-drive-tong-bu-ka-zhu.webp
 ---
 
 下午要交方案，你在 Google Docs 里改到最后一段，同事在另一端打开却还是上一版；与此同时，电脑上的 Drive 同步图标已经转了好久，上传的几个文件始终没有出现在云端。你刷新了好几次，依然没有变化。

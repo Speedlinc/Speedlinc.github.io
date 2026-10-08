@@ -6,7 +6,7 @@ tags: [TonBo VPN 新手, 怎么使用, 免费额度, 使用教程, pillar:网络
 lang: zh
 excerpt: "刚装好 TonBo VPN 不知道从哪下手？把第一周拆成七个小任务，每天只做一件事，就能从装好用到用顺。"
 description: "TonBo VPN 新手使用指南：用七天安排讲清楚怎么使用、免费额度怎么用、节点和智能路由怎么试、Kill Switch 何时开启，帮助新用户快速上手。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/xin-yong-hu-di-yi-zhou-shi-yong-ji-hua.webp
 ---
 
 很多人装好一个网络加速器后，打开、连接、能用，然后就停在这里，既不知道还有哪些功能，也说不清自己到底用得对不对。等到某天晚上速度不理想，才发现从来没试过换节点。

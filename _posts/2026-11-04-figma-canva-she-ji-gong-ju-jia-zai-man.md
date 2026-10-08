@@ -6,7 +6,7 @@ tags: [Figma, Canva, 设计工具, 上传失败, TonBo VPN, pillar:协作办公]
 lang: zh
 excerpt: "画布一直转圈、字体图片传到一半失败——在线设计工具对网络的要求，比普通网页高得多。"
 description: "Figma 加载慢、Canva 打不开、设计工具上传失败的原因与排查步骤：从浏览器、本地网络到出口线路，逐层缩小问题范围。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/figma-canva-she-ji-gong-ju-jia-zai-man.webp
 ---
 
 临近交付，打开设计稿，Figma 的画布转了一分钟才出来；换到 Canva 做配图，上传一张素材，进度条走到一半就提示失败。这类问题的特点是：普通网页能打开，设计工具却特别难用。原因并不神秘，在线设计工具和浏览新闻网页对网络的要求完全不是一个量级。

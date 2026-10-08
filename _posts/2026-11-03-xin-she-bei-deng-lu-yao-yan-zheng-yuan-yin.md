@@ -6,7 +6,7 @@ tags: [登录验证, 出口IP, 异地登录, 独享IP, TonBo VPN, pillar:账号�
 lang: zh
 excerpt: "明明是自己在用，却频繁收到验证码、邮件确认。多数时候，是出口 IP 在短时间内“跳变”触发了平台的正常安全校验。"
 description: "解释登录总要验证、异地登录验证背后的机制：出口IP 变化如何被平台视为环境异常，以及正常用户如何让账号使用环境保持稳定。"
-image: /assets/images/covers/dedicated-ip.svg
+image: /assets/images/covers/xin-she-bei-deng-lu-yao-yan-zheng-yuan-yin.webp
 ---
 
 早上在公司用手机登录一次，中午回家又在电脑上打开同一个服务，下午换了个节点继续用，结果邮箱里躺着三封“检测到新设备登录”的邮件，还被要求输入验证码。很多人的第一反应是账号出了问题，其实这更像是平台的安全校验在正常工作。这篇只做机制解释：为什么会触发验证，以及作为正常用户，怎样让使用环境保持稳定、少一些打扰。

@@ -6,7 +6,7 @@ tags: [网络加速器, VPN 选购, 加速器对比, TonBo VPN, pillar:网络基
 lang: zh
 excerpt: "广告里的“超高速”“零延迟”都没法验证。选网络加速器，不如看这 6 项能自己核对的指标。"
 description: "怎么选网络加速器？从线路类型、稳定性、节点类型、平台覆盖、安全功能、试用与透明度 6 个维度，整理 VPN 选购指标与加速器对比维度。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/xuan-gou-wang-luo-jia-su-qi-6-ge-zhi-biao.webp
 ---
 
 搜索“网络加速器”，前几页几乎都是同一种话术：超高速、零延迟、全球通用、一键连接。每家都这么说，看完等于没看。真正用起来才发现，有的白天顺畅、晚上掉线，有的网页能开、AI 工具却总是超时。

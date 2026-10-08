@@ -6,7 +6,7 @@ tags: [Hugging Face, 模型下载, 断点续传, TonBo VPN, pillar:ai-稳定访�
 lang: zh
 excerpt: "几十 GB 的模型文件下到 90% 断了，从头再来的滋味谁都不想再尝。把断点续传用对，比盲目重试有效得多。"
 description: "Hugging Face 下载慢、模型下载中断怎么办？介绍断点续传的具体命令、哈希校验方法，以及下载大文件时怎样选择稳定线路。"
-image: /assets/images/covers/chatgpt.svg
+image: /assets/images/covers/hugging-face-xia-zai-da-mo-xing-zong-zhong-duan.webp
 ---
 
 晚上开始下载一个大模型，想着睡一觉就好了。第二天早上发现，进度停在 90% 附近，终端里一行连接重置的报错，临时文件还躺在硬盘上，却不知道能不能接着下。

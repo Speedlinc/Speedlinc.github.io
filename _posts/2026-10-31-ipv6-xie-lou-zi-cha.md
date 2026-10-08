@@ -6,7 +6,7 @@ tags: [IPv6, IPv6泄漏, 网络基础, 自查, TonBo VPN, pillar:网络基础]
 lang: zh
 excerpt: "连上加速后，IPv4 地址变了，IPv6 却还是本地的——这种“半截走线”就是常说的 IPv6 泄漏。"
 description: "解释 IPv6 泄漏的成因，给出 IPv6 泄漏检测的自查步骤与 VPN IPv6 设置思路，帮助确认加速后流量走向是否一致。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/ipv6-xie-lou-zi-cha.webp
 ---
 
 一位做跨境协作的读者问过这样的问题：客户端明明显示已连接，查 IP 的网页上显示的也是节点地址，可有个网站打开时总是慢半拍，偶尔还会跳出“当前网络环境异常”的提示。后来一步步排查，问题出在一个很容易被忽略的地方——IPv6。

@@ -6,7 +6,7 @@ tags: [GitHub, pip, npm, 开发者, TonBo VPN, pillar:协作办公]
 lang: zh
 excerpt: "git clone 卡在 10%、pip 一直 Retrying、npm 报 ETIMEDOUT——先分清是哪一层慢，比反复重试有效得多。"
 description: "GitHub 克隆慢、pip 安装超时、npm 安装超时的分层排查思路：先定位 DNS、连接、下载哪一步出问题，再决定调参数还是换线路。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/github-ke-long-man-pip-npm-chao-shi.webp
 ---
 
 周五下班前想把一个新项目拉下来跑一遍：`git clone` 停在 `Receiving objects: 8%` 十分钟不动，换成 `pip install -r requirements.txt` 又是一连串 `Retrying`，最后 `npm install` 报了 `ETIMEDOUT`。三个工具、三种报错，其实多数时候指向同一类问题——到目标服务器的链路质量不稳。

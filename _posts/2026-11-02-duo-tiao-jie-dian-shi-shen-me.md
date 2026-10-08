@@ -6,7 +6,7 @@ tags: [多跳节点, 双跳VPN, 延迟, 节点选择, TonBo VPN, pillar:网络�
 lang: zh
 excerpt: "多跳节点把流量依次交给两个以上的服务器转发。它不是“跳数越多越好”，而是一次延迟与链路稳定性的取舍。"
 description: "科普多跳节点与双跳 VPN 的工作原理，对比一跳与两跳的多跳延迟、稳定性差异，说明什么场景适合哪种方式。"
-image: /assets/images/covers/intro.svg
+image: /assets/images/covers/duo-tiao-jie-dian-shi-shen-me.webp
 ---
 
 在节点列表里看到“多跳”“双跳”这类标签，很多人的第一反应是：跳得越多，是不是越好？其实多跳节点解决的是一类特定的问题，用错了场景，反而会让游戏变卡、网页变慢。这篇用一个简单的模型，把一跳和两跳的差别讲清楚。
